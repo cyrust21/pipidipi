@@ -1,0 +1,12 @@
+{
+  "latestVersion": "1.2.0",
+  "latestVersionCode": 3,
+  "url": "https://github.com/username/repo-name/releases/download/v1.2.0/SmartDPI-v1.2.0.apk",
+  "releaseNotes": [
+    "- Peningkatan akurasi DPI untuk layar 120Hz.",
+    "- Perbaikan tampilan antarmuka (UI).",
+    "- Support Android 14/15."
+  ],
+  "minSdkVersion": 21,
+  "fileSize": 4520123
+}
